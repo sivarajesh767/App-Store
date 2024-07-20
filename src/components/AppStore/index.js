@@ -1,7 +1,7 @@
 import './index.css'
 import {Component} from 'react'
 import TabItem from '../TabItem'
-
+import AppItem from '../AppItem'
 const tabsList = [
   {tabId: 'SOCIAL', displayText: 'Social'},
   {tabId: 'GAMES', displayText: 'Games'},
